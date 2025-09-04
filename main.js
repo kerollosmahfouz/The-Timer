@@ -64,7 +64,7 @@ checkbox_for_ct.onclick = _ => {
 // Start About_Alert
 var about = document.querySelector(".about")
 about.onclick = _ => {
-    alert("This Web Application Devoloped by Kyrellos Mahfouz Hanna")
+    alert("This Web Application Devoloped by Kerollos Mahfouz Hanna")
 }
 // End About_Alert
 
@@ -132,7 +132,7 @@ function birthday() {
 let counter = setInterval(birthday, 1000);
 
 function End_of_the_year() {
-    eoty = new Date(" DEC 31,2023 23:59:59 ").getTime()
+    eoty = new Date(" DEC 31,2025 23:59:59 ").getTime()
 
     datenow = new Date().getTime()
 

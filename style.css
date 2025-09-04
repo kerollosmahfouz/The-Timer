@@ -3,7 +3,7 @@ body {
     align-items: center;
     flex-flow: column wrap;
     margin: 0;
-    background-color: var(--main-dark-color);
+    /*background-color: var(--main-dark-color);*/
 }
 
 :root {
